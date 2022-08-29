@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycore_Net_Bootcamp_Hafta_2", "Paycore_Net_Bootcamp_Hafta_2\Paycore_Net_Bootcamp_Hafta_2.csproj", "{E4B35323-78BA-443B-8B54-308EE4CB5068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B35323-78BA-443B-8B54-308EE4CB5068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B35323-78BA-443B-8B54-308EE4CB5068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B35323-78BA-443B-8B54-308EE4CB5068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B35323-78BA-443B-8B54-308EE4CB5068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E59A7E-6B2A-454E-808E-70F375244EFF}
+	EndGlobalSection
+EndGlobal
